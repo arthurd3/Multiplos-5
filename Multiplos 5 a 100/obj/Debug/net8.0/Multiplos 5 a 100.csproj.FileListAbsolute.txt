@@ -1,0 +1,14 @@
+C:\C#\Multiplos 5 a 100\bin\Debug\net8.0\Multiplos 5 a 100.exe
+C:\C#\Multiplos 5 a 100\bin\Debug\net8.0\Multiplos 5 a 100.deps.json
+C:\C#\Multiplos 5 a 100\bin\Debug\net8.0\Multiplos 5 a 100.runtimeconfig.json
+C:\C#\Multiplos 5 a 100\bin\Debug\net8.0\Multiplos 5 a 100.dll
+C:\C#\Multiplos 5 a 100\bin\Debug\net8.0\Multiplos 5 a 100.pdb
+C:\C#\Multiplos 5 a 100\obj\Debug\net8.0\Multiplos 5 a 100.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Multiplos 5 a 100\obj\Debug\net8.0\Multiplos 5 a 100.AssemblyInfoInputs.cache
+C:\C#\Multiplos 5 a 100\obj\Debug\net8.0\Multiplos 5 a 100.AssemblyInfo.cs
+C:\C#\Multiplos 5 a 100\obj\Debug\net8.0\Multiplos 5 a 100.csproj.CoreCompileInputs.cache
+C:\C#\Multiplos 5 a 100\obj\Debug\net8.0\Multiplos 5 a 100.dll
+C:\C#\Multiplos 5 a 100\obj\Debug\net8.0\refint\Multiplos 5 a 100.dll
+C:\C#\Multiplos 5 a 100\obj\Debug\net8.0\Multiplos 5 a 100.pdb
+C:\C#\Multiplos 5 a 100\obj\Debug\net8.0\Multiplos 5 a 100.genruntimeconfig.cache
+C:\C#\Multiplos 5 a 100\obj\Debug\net8.0\ref\Multiplos 5 a 100.dll
